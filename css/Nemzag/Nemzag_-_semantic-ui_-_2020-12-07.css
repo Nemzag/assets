@@ -1,0 +1,64 @@
+/*
+ * Created with PhpStorm.
+ * User: Nemzag aka Gaz‑mên Arifi (Shkypi, 1979-09-30) {https://github.com/Nemzag/}.
+ * Date: 07/12/2020
+ * Time: 13:37
+ * Updated:
+*/
+
+* {
+    font-family: monospace !important;
+}
+
+.ui.message {
+    font-family: monospace !important;
+    font-size: large !important;
+}
+
+h1 {
+    font-size: 2.4rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+h3, h3 a {
+    font-size: 1.6rem;
+    /*text-shadow: 2px 1px 3px #000000*/ /* x y blur‑radius color */;
+}
+
+h3 a {
+    /* color: #ffffff !important; */
+}
+
+h4 {
+    font-size: 1.35rem;
+}
+
+h4 time {
+    font-size: 0.8rem;
+}
+h4 a {
+    /* text-shadow: 0.062rem 0.05rem 0.02rem #000000 */ /* x y blur‑radius color */
+}
+
+h5 {
+    font-size: 1.4rem;
+}
+
+h6 {
+    font-size: 1.2rem;
+}
+
+div.message div.header {
+    font-size: 1rem !important;
+}
+
+p {
+    font-family: monospace !important;
+    font-size: large;
+}
+
+
+
